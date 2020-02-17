@@ -1,1 +1,1 @@
-# vehicle-detection and couting
+# vehicle-detection and counting
